@@ -594,8 +594,8 @@ public class WheelView extends View {
 			drawItems(canvas);
 			drawCenterRect(canvas);
 		}
-		if (visibleItems > 1)
-			drawShadows(canvas);
+		// if (visibleItems > 1)
+		// drawShadows(canvas);
 	}
 
 	/**
