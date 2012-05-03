@@ -1,0 +1,10 @@
+bin/
+gen/
+build/
+.settings/
+.DS_Store
+.swp
+.project
+.classpath
+sync_build.sh
+local.properties
